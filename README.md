@@ -2,7 +2,7 @@
 
 Projeto elaborado através do desafio do grupo de Ciência de Dados da Udata para realizar a análise de dados das importações da região sul do Brasil, onde deveriamos analisar os dados refrentes ao ano de 2020 do estado de Santa Catarina/SC.
 
-# 📖 Importações no estado de Santa Catarina
+# 📖 Informações sobre Importações
 
 O comércio internacional fechou 2021 em alta em Santa Catarina. Com US$ 10,29 bilhões em exportações e US$ 24,92 bilhões em importações, o estado registrou crescimento e atingiu os maiores valores da série histórica nos dois tipos de operação do comércio internacional. Em relação a 2020, as exportações aumentaram 26,6% e as importações subiram 54,9%. Os dados são do Ministério da Economia.
 
