@@ -1,3 +1,6 @@
+![image](https://github.com/LerinaMM/importacoes_santa_catarina/assets/83770121/cbc8a112-009e-44c3-a2ad-4e7fc15c5c45)
+
+
 # ✅ IMPORTAÇÕES ESTADO DE SANTA CATARINA
 
 Projeto elaborado através do desafio do grupo de Ciência de Dados da Udata para realizar a análise de dados das importações da região sul do Brasil, onde deveriamos analisar os dados refrentes ao ano de 2020 do estado de Santa Catarina/SC.
